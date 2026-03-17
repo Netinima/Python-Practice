@@ -1,0 +1,7 @@
+print ("You are -name-")
+name = str(input("Pick a Name: "))
+print(f"{name} is -adjective-")
+adj = str(input("Pick an Adjective: "))
+print(f"{name} has an issue and wants to -verb- it")
+verb = str(input("Pick a verb: "))
+print(f"{name} can {verb} it in so many different ways! /nHe wants to choose just -number- different ways though.")
